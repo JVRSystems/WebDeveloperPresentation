@@ -1,0 +1,49 @@
+1. Build a webpage 
+Print the numbers 1 - 10, each number being a different color
+
+2. Build a Webpage
+Prints 10 names with a line break between each name. The list should be alphabetized, and to do this place a subscripted number next to each name based on where it will go in the alphabetized list. (Example: Alan1). Print first, the unalphabetized list with a subscript number next to each name, then the alphabetized list. Both lists should have an <h1> level heading
+
+3. Build a Webpage 
+Create a page with a link at the top of it that when clicked will jump all the way to the bottom of the page. At the bottom of the page there should be a link to jump back to the top of the page.
+
+4. Build a webpage
+Display an image that when clicked will link to a search engine of your choice (should be opened in a new window).
+
+5. Build a Webpage
+Make a simple page and put two text inputs and a Submit button into it. Ask for the user's name and address.
+
+6. Webpage
+Ask for a few more things… first name, last name, address, city, state, zip. Arrange things neatly in a borderless table so everything lines up and looks nice and neat
+
+7. Build a webpage
+create a table to structure the page so that it has:
+3 columns: 50 | 500 | 100 pixels wide
+4 rows: 50 | 50 | 500 | 50 pixels high
+
+8. Build a webpage
+Edit images found on flickr.com using a free online image editing tool.
+Embed at least one floating image per page that has text flow all around it.
+
+9. Create Google Analytics account and create and embed tracking code on your build pages you created above. Use 6 and 7 for this exercise
+
+10. Webpage + CSS
+
+CSS Should have the below:
+
+Use a paragraph <p>…</p> to hold the text.
+Use <span** style="…">text</span>** for the colored text
+11. WebPage + CSS
+
+CSS should have the below 
+Use 3 nested <div> elements
+Outside div : blue dotted border + border-radius + padding
+Middle div : red dashed border + border-radius + padding
+Inner div : green solid border + border-radius + padding + text-align + font-size
+Use &lt; and &gt; to escape the < and > characters in the text…
+12. WebPage + CSS
+
+CSS should have the below 
+Use three paragraphs <p>…</p> to hold the text
+Use <p style="">…</p> to style the paragraphs
+Use <span** style="…">text</span>** for the colored text

@@ -1,0 +1,9 @@
+    * JavaScript to Validate Form Elements
+    * JavaScript to Validate Fields not empty.
+    * JavaScript to Validate Radio button selected.
+    * JavaScript to Validate At least two checkbox selected  JavaScript to Validate text box contains exactly two letters.
+    * JavaScript to Validate Proper email specified in a text box 
+    * JavaScript function to validate whether a given value type is boolean or not.
+    * JavaScript function to validate whether a given value is RegExp or not.
+    * JavaScript function to validate whether a given value type is char or not
+    * JavaScript function to validate whether a given value is object or not

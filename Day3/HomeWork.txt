@@ -1,0 +1,11 @@
+Use Angular Scope to oncatenate the strings "Hello" and "World" to make a hello world app.
+Create an Angular template which tells you how many seconds there are in a day, a year, a century.
+Use Angular Modules to find out how many weeks there are in a human lifetime.
+Write an Angular template which contains an "enter your name" form
+create a VAT calculator, a currency converter or a unit converter
+There are two input fields, each with a number. Use the curly brace syntax or ng-bind to output the sum of the two numbers.When you fill in the fields, output a little list in HTML. When I type in the input fields the list should update in real time
+Use ng-show to create a simple navigation. Your page will contain several sections, each with an ng-show attribute. Choose a horizontal or vertical nav. Use ng-click to set the value of a model and show the sections.
+Add a button to your DOM and use ng-click to call the function.
+Use NG - Create a form. Create a method on scope that opens the dialog. Call the method when the button is pressed
+create radio buttons for a coffee shop website. Use Angular validation to make sure the form is validated 
+
